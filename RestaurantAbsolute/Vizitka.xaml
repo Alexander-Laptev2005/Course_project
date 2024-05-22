@@ -1,0 +1,21 @@
+﻿<Window x:Class="RestaurantAbsolute.Vizitka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RestaurantAbsolute"
+        mc:Ignorable="d"
+        Title="Vizitka" Height="400" Width="685" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Resources/vizitkabackground.jpg"/>
+        </Grid.Background>
+        <Label Content="いらっしゃいませ！ (Добро пожаловать!)" HorizontalAlignment="Center" Margin="150,40,0,0" Height="50" Foreground="DarkOrange" VerticalAlignment="Top" 
+               FontWeight="Bold" FontSize="25" />
+        <Label Content="Ресторан «Японские фантазии»" HorizontalAlignment="Center" Margin="0,310,0,0" Height="50" Foreground="DarkOrange" VerticalAlignment="Top" 
+               FontWeight="Bold" FontSize="25" FontStyle="Italic"/>
+        <Label Content="Лаптев.А ИС-301" HorizontalAlignment="Right" Margin="0,0,0,0" Height="50" Width="230" Foreground="DarkOrange" VerticalAlignment="Top" 
+               FontWeight="Bold" FontSize="25" FontStyle="Italic"/>
+
+    </Grid>
+</Window>

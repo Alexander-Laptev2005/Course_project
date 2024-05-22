@@ -1,0 +1,164 @@
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe.config
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.pdb
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.AssemblyReference.cache
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\App.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.cache
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.lref
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.baml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.g.resources
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.Properties.Resources.resources
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.GenerateResource.cache
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CoreCompileInputs.cache
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.exe
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.pdb
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe.config
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.pdb
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.cache
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.lref
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.g.resources
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.Properties.Resources.resources
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.exe
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.pdb
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.baml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.baml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.baml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.baml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.dll
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.dll
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.xml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.xml
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\bin\Debug\ru\EntityFramework.resources.dll
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_Content.g.cs
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CopyComplete
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.dll
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.xml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_Content.g.cs
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.baml
+C:\Users\Админ\Desktop\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CopyComplete
+H:\Курсовой проект (3 курс)\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe.config
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.pdb
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.dll
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.xml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_Content.g.cs
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.cache
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.lref
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.baml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.baml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.baml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.baml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.baml
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.g.resources
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.Properties.Resources.resources
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CopyComplete
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.exe
+C:\Users\Админ\Desktop\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.pdb
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe.config
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.pdb
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.dll
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.dll
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.xml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.xml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\ru\EntityFramework.resources.dll
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.AssemblyReference.cache
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\App.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_Content.g.cs
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.cache
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.lref
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.baml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.baml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.baml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.baml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.baml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.baml
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.g.resources
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.Properties.Resources.resources
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.GenerateResource.cache
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CoreCompileInputs.cache
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CopyComplete
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.exe
+H:\Курсовой проект (3 курс)\restaurant last\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.pdb
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe.config
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.exe
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\RestaurantAbsolute.pdb
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.dll
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.xml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_Content.g.cs
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.cache
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute_MarkupCompile.lref
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\AdminWindow.baml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\ClientWindow.baml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\CookWindow.baml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RegWindow.baml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\Vizitka.baml
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.g.resources
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.Properties.Resources.resources
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantJapaneseFantasy.csproj.CopyComplete
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.exe
+C:\Users\Админ\Desktop\ресторан last ver 2.0\Ресторан last ver\Restaurant\RestaurantAbsolute\obj\Debug\RestaurantAbsolute.pdb

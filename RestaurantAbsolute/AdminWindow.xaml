@@ -1,0 +1,31 @@
+﻿<Window x:Class="RestaurantAbsolute.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RestaurantAbsolute"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen"  WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush x:Name="AdminBG" ImageSource="Resources/windowsbackground.jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="sessionBlock" Grid.Column="2"
+                       HorizontalAlignment="Right" TextAlignment="Center"
+                       Text="" Foreground="#C93756" FontWeight="SemiBold"
+                       FontStyle="Italic" FontSize="20" VerticalAlignment="Top"
+                       Margin="0,15,5,0"/>
+        <Label Content="Администратор" FontSize="35" HorizontalContentAlignment="Center"  VerticalAlignment="Top" HorizontalAlignment="Center"  Height="85"
+                   Width="350" Margin="0,0,100,0" />
+        <Label FontSize="15" HorizontalContentAlignment="Center"  VerticalAlignment="Top" HorizontalAlignment="Right"  Height="85"
+           Width="170" x:Name="LoginShow" Margin="0,0,100,0" VerticalContentAlignment="Top"/>
+        <Button Width="120" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Content="Назад"
+                Click="Button_Click" Background="MistyRose"/>
+        <Button  Background="MistyRose" Height="50" Width="200" Content="Выдать права" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" 
+         Margin="15,100,0,0"/>
+        <Button  Background="MistyRose" Height="50" Width="200" Content="Сформировать отчёт" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" 
+         Margin="15,200,0,0"/>
+        <Button  Background="MistyRose" Height="50" Width="200" Content="Просмотреть данные" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" 
+         Margin="15,300,0,0"/>
+    </Grid>
+</Window>

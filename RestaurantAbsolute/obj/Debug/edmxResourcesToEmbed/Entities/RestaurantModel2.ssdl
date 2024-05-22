@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище is1_25_laptevanKURSModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TypeUser">
+    <Key>
+      <PropertyRef Name="id_TypeUser" />
+    </Key>
+    <Property Name="id_TypeUser" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="post" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_post" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserData">
+    <Key>
+      <PropertyRef Name="id_User" />
+    </Key>
+    <Property Name="id_User" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Namee" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Surname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Loginn" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Passwordd" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__TypeUser__id_pos__38996AB5">
+    <End Role="UserData" Type="Self.UserData" Multiplicity="1" />
+    <End Role="TypeUser" Type="Self.TypeUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserData">
+        <PropertyRef Name="id_User" />
+      </Principal>
+      <Dependent Role="TypeUser">
+        <PropertyRef Name="id_post" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище is1_25_laptevanKURSModelContainer">
+    <EntitySet Name="TypeUser" EntityType="Self.TypeUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserData" EntityType="Self.UserData" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__TypeUser__id_pos__38996AB5" Association="Self.FK__TypeUser__id_pos__38996AB5">
+      <End Role="UserData" EntitySet="UserData" />
+      <End Role="TypeUser" EntitySet="TypeUser" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

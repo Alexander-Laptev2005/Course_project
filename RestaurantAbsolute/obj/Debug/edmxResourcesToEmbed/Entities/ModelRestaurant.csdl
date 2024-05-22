@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="is1_25_laptevanKURSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TypeUser">
+    <Key>
+      <PropertyRef Name="id_TypeUser" />
+    </Key>
+    <Property Name="id_TypeUser" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="post" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_post" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserData" Relationship="Self.FK__TypeUser__id_pos__38996AB5" FromRole="TypeUser" ToRole="UserData" />
+  </EntityType>
+  <EntityType Name="UserData">
+    <Key>
+      <PropertyRef Name="id_User" />
+    </Key>
+    <Property Name="id_User" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Namee" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Loginn" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Passwordd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="TypeUser" Relationship="Self.FK__TypeUser__id_pos__38996AB5" FromRole="UserData" ToRole="TypeUser" />
+  </EntityType>
+  <Association Name="FK__TypeUser__id_pos__38996AB5">
+    <End Role="UserData" Type="Self.UserData" Multiplicity="1" />
+    <End Role="TypeUser" Type="Self.TypeUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserData">
+        <PropertyRef Name="id_User" />
+      </Principal>
+      <Dependent Role="TypeUser">
+        <PropertyRef Name="id_post" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="is1_25_laptevanKURSEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TypeUser" EntityType="Self.TypeUser" />
+    <EntitySet Name="UserData" EntityType="Self.UserData" />
+    <AssociationSet Name="FK__TypeUser__id_pos__38996AB5" Association="Self.FK__TypeUser__id_pos__38996AB5">
+      <End Role="UserData" EntitySet="UserData" />
+      <End Role="TypeUser" EntitySet="TypeUser" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

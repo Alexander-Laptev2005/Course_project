@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище is1_25_laptevanKURSModelContainer" CdmEntityContainer="is1_25_laptevanKURSEntities4">
+    <EntitySetMapping Name="TypeUser">
+      <EntityTypeMapping TypeName="is1_25_laptevanKURSModel.TypeUser">
+        <MappingFragment StoreEntitySet="TypeUser">
+          <ScalarProperty Name="id_TypeUser" ColumnName="id_TypeUser" />
+          <ScalarProperty Name="post" ColumnName="post" />
+          <ScalarProperty Name="id_post" ColumnName="id_post" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserData">
+      <EntityTypeMapping TypeName="is1_25_laptevanKURSModel.UserData">
+        <MappingFragment StoreEntitySet="UserData">
+          <ScalarProperty Name="id_User" ColumnName="id_User" />
+          <ScalarProperty Name="Namee" ColumnName="Namee" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Loginn" ColumnName="Loginn" />
+          <ScalarProperty Name="Passwordd" ColumnName="Passwordd" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
